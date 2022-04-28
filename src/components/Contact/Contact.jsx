@@ -31,12 +31,6 @@ const Contact = () => {
 						<a href='mailto:kolja9062005@gmail.com' target='_blank'>Send a message</a>
 					</article>
 					<article className='contact__option'>
-						<RiMessengerLine />
-						<h4>Messenger</h4>
-						<h5>egatortutorials</h5>
-						<a href='https://www.facebook.com/messages/t/100060699326613' target='_blank'>Send a message</a>
-					</article>
-					<article className='contact__option'>
 						<BsTelegram />
 						<h4>Telegram</h4>
 						<h5>kolja09062005</h5>
