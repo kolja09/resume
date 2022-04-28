@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.66f3cab5.css",
-    "main.js": "/portfolio/static/js/main.c720538d.js",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.1676dcdc83730930d888.pdf",
-    "static/media/me.png": "/portfolio/static/media/me.821ecddcb9953b46bf75.png",
-    "static/media/me-about.jpg": "/portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "main.css": "/portfolio/static/css/main.5118f62c.css",
+    "main.js": "/portfolio/static/js/main.4b87429f.js",
+    "static/media/IMG_20200805_124128.jpg": "/portfolio/static/media/IMG_20200805_124128.7789e56ffb6e62545e03.jpg",
+    "static/media/go-surf.jpg": "/portfolio/static/media/go-surf.462cb3ff9521227a4f58.jpg",
+    "static/media/Kolya_Strila_CV.docx.pdf": "/portfolio/static/media/Kolya_Strila_CV.docx.9f64a3eba33bd48d779d.pdf",
+    "static/media/posts.jpg": "/portfolio/static/media/posts.063951f76249e3ba76a7.jpg",
+    "static/media/real-estate.jpg": "/portfolio/static/media/real-estate.1b16eb287182c79e4f13.jpg",
+    "static/media/desire.jpg": "/portfolio/static/media/desire.9cee4dcd6ec4c6c0e562.jpg",
+    "static/media/movie.jpg": "/portfolio/static/media/movie.9b2aa493238c7342e74b.jpg",
+    "static/media/IMG_20210808_163127_732.jpg": "/portfolio/static/media/IMG_20210808_163127_732.0abd192c0c0384581f90.jpg",
+    "static/media/game.jpg": "/portfolio/static/media/game.93f047c4bf66493c508a.jpg",
+    "static/media/virtual-banking.jpg": "/portfolio/static/media/virtual-banking.3a56b3998b7886bfe274.jpg",
+    "static/media/car-sharing.jpg": "/portfolio/static/media/car-sharing.5cd9cc23593623db2762.jpg",
+    "static/media/hover-board.jpg": "/portfolio/static/media/hover-board.55e6346632e02c4c1cbd.jpg",
+    "static/media/agency-website.jpg": "/portfolio/static/media/agency-website.f65b963747f684ce6541.jpg",
+    "static/media/aim-game.jpg": "/portfolio/static/media/aim-game.eba4fb0e55d3a7bab328.jpg",
+    "static/media/todo-list.jpg": "/portfolio/static/media/todo-list.bffbb6bd815e263d8bdd.jpg",
     "index.html": "/portfolio/index.html",
-    "main.66f3cab5.css.map": "/portfolio/static/css/main.66f3cab5.css.map",
-    "main.c720538d.js.map": "/portfolio/static/js/main.c720538d.js.map"
+    "main.5118f62c.css.map": "/portfolio/static/css/main.5118f62c.css.map",
+    "main.4b87429f.js.map": "/portfolio/static/js/main.4b87429f.js.map"
   },
   "entrypoints": [
-    "static/css/main.66f3cab5.css",
-    "static/js/main.c720538d.js"
+    "static/css/main.5118f62c.css",
+    "static/js/main.4b87429f.js"
   ]
 }
