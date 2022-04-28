@@ -1,1 +1,1 @@
-// https://kolja09.github.io/portfolio/
+// https://kolja09.github.io/resume/
