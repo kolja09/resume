@@ -2,6 +2,7 @@ import React, { useRef } from 'react';
 import emailjs from 'emailjs-com';
 import { MdOutlineEmail } from "react-icons/md";
 import { RiMessengerLine } from "react-icons/ri";
+import { BsTelegram } from "react-icons/bs"
 
 import './contact.css';
 
@@ -33,7 +34,13 @@ const Contact = () => {
 						<RiMessengerLine />
 						<h4>Messenger</h4>
 						<h5>egatortutorials</h5>
-						<a href='https://m.me/' target='_blank'>Send a message</a>
+						<a href='https://www.facebook.com/messages/t/100060699326613' target='_blank'>Send a message</a>
+					</article>
+					<article className='contact__option'>
+						<BsTelegram />
+						<h4>Telegram</h4>
+						<h5>kolja09062005</h5>
+						<a href='https://t.me/kolja09062005' target='_blank'>Send a message</a>
 					</article>
 				</div>
 				<form ref={form} onSubmit={sendEmail}>

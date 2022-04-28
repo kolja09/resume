@@ -3,6 +3,22 @@ import { BsPatchCheckFill } from "react-icons/bs";
 
 import './experience.css';
 
+const technology = [
+	{name: 'HTML', level: 'Experienced'},
+	{name: 'CSS', level: 'Intermediate'},
+	{name: 'JavaScript', level: 'Intermediate'},
+	{name: 'Typescript', level: 'Experienced'},
+	{name: 'React.js', level: 'Experienced'},
+	{name: 'Redux', level: 'Experienced'},
+	{name: 'Next.js', level: 'Intermediate'},
+	{name: 'Redux Thunk', level: 'Experienced'},
+	{name: 'Axios', level: 'Experienced'},
+	{name: 'Git, GitHub', level: 'Intermediate'},
+	{name: 'Styled Components', level: 'Experienced'},
+	{name: 'SASS(SCSS)', level: 'Experienced'},
+	{name: 'Gulp', level: 'Intermediate'},
+];
+
 const Experience = () => {
 	return (
 		<section id='experience'>
@@ -12,48 +28,15 @@ const Experience = () => {
 				<div className='experience__frontend'>
 					<h3>Frontend Development</h3>
 					<div className='experience__content'>
-						<article className='experience__details'>
-							<BsPatchCheckFill className='experience__details-icon'/>
-							<div>
-								<h4>HTML</h4>
-								<small className='text-light'>Experienced</small>
-							</div>
-						</article>
-						<article className='experience__details'>
-							<BsPatchCheckFill className='experience__details-icon'/>
-							<div>
-								<h4>CSS</h4>
-								<small className='text-light'>Intermediate</small>
-							</div>
-						</article>
-						<article className='experience__details'>
-							<BsPatchCheckFill className='experience__details-icon'/>
-							<div>
-								<h4>JavaScript</h4>
-								<small className='text-light'>Experienced</small>
-							</div>
-						</article>
-						<article className='experience__details'>
-							<BsPatchCheckFill className='experience__details-icon'/>
-						  <div>
-							  <h4>Bootstrap</h4>
-							  <small className='text-light'>Experienced</small>
-						  </div>
-						</article>
-						<article className='experience__details'>
-							<BsPatchCheckFill className='experience__details-icon'/>
-							<div>
-								<h4>React</h4>
-								<small className='text-light'>Experienced</small>
-							</div>
-						</article>
-						<article className='experience__details'>
-							<BsPatchCheckFill className='experience__details-icon'/>
-							<div>
-								<h4>Redux</h4>
-								<small className='text-light'>Experienced</small>
-							</div>
-						</article>
+						{technology.map((t, idx) => (
+							<article key={idx} className='experience__details'>
+								<BsPatchCheckFill className='experience__details-icon'/>
+								<div>
+									<h4>{t.name}</h4>
+									<small className='text-light'>{t.level}</small>
+								</div>
+							</article>
+						))}
 					</div>
 				</div>
 			</div>

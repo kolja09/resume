@@ -20,6 +20,8 @@
 .portfolio__item-image {
 	border-radius: 1.5rem;
 	overflow: hidden;
+	width: 328px;
+	height: 246px;
 }
 
 .portfolio__item h3 {
