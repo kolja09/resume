@@ -1,6 +1,7 @@
 import React from 'react';
 
 import './portfolio.css';
+import IMG1 from './../../assets/freshnesecom.jpg';
 import IMG2 from './../../assets/virtual-banking.jpg';
 import IMG3 from './../../assets/agency-website.jpg';
 import IMG4 from './../../assets/todo-list.jpg';
@@ -15,6 +16,13 @@ import IMG12 from './../../assets/hover-board.jpg';
 import IMG13 from './../../assets/aim-game.jpg';
 
 const data = [
+	{
+		id: 1,
+		image: IMG1,
+		title: "Shop Freshnesecom",
+		github: 'https://github.com/kolja09/shop-freshnesecom',
+		demo: 'https://shop-freshnesecom.vercel.app/'
+	},
 	{
 		id: 2,
 		image: IMG2,
