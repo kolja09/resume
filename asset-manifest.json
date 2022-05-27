@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.5118f62c.css",
-    "main.js": "/resume/static/js/main.afd134b0.js",
+    "main.js": "/resume/static/js/main.a70634f3.js",
     "static/media/IMG_20200805_124128.jpg": "/resume/static/media/IMG_20200805_124128.7789e56ffb6e62545e03.jpg",
     "static/media/go-surf.jpg": "/resume/static/media/go-surf.462cb3ff9521227a4f58.jpg",
-    "static/media/Kolya_Strila_CV.docx.pdf": "/resume/static/media/Kolya_Strila_CV.docx.cb0591730ddccf9abcf4.pdf",
+    "static/media/Kolya_Strila_CV.docx.pdf": "/resume/static/media/Kolya_Strila_CV.docx.4e072650fea77119273f.pdf",
     "static/media/posts.jpg": "/resume/static/media/posts.063951f76249e3ba76a7.jpg",
     "static/media/real-estate.jpg": "/resume/static/media/real-estate.1b16eb287182c79e4f13.jpg",
     "static/media/freshnesecom.jpg": "/resume/static/media/freshnesecom.24ecd1ad1fd955b5a607.jpg",
@@ -20,10 +20,10 @@
     "static/media/todo-list.jpg": "/resume/static/media/todo-list.bffbb6bd815e263d8bdd.jpg",
     "index.html": "/resume/index.html",
     "main.5118f62c.css.map": "/resume/static/css/main.5118f62c.css.map",
-    "main.afd134b0.js.map": "/resume/static/js/main.afd134b0.js.map"
+    "main.a70634f3.js.map": "/resume/static/js/main.a70634f3.js.map"
   },
   "entrypoints": [
     "static/css/main.5118f62c.css",
-    "static/js/main.afd134b0.js"
+    "static/js/main.a70634f3.js"
   ]
 }
