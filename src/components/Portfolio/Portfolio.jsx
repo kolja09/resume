@@ -15,7 +15,6 @@ import IMG11 from './../../assets/go-surf.jpg';
 import IMG12 from './../../assets/hover-board.jpg';
 import IMG13 from './../../assets/aim-game.jpg';
 import IMG14 from './../../assets/chart.PNG';
-import IMG15 from './../../assets/currency-converter.PNG';
 
 const data = [
 	{
@@ -29,12 +28,6 @@ const data = [
 		title: "Chart App",
 		github: 'https://github.com/kolja09/chart-app',
 		demo: 'https://chart-app-inky.vercel.app/'
-	},
-	{
-		image: IMG15,
-		title: "Currency Converter (Angular)",
-		github: 'https://github.com/kolja09/currency-converter',
-		demo: 'https://currency-converter-opal-eight.vercel.app/',
 	},
 	{
 		image: IMG2,
