@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.b4da281c.css",
+    "main.js": "/resume/static/js/main.f33e8720.js",
+    "static/media/go-surf.jpg": "/resume/static/media/go-surf.462cb3ff9521227a4f58.jpg",
+    "static/media/Kolya_Strila_CV.docx.pdf": "/resume/static/media/Kolya_Strila_CV.docx.4f66ba8d83a198222abb.pdf",
+    "static/media/posts.jpg": "/resume/static/media/posts.063951f76249e3ba76a7.jpg",
+    "static/media/real-estate.jpg": "/resume/static/media/real-estate.1b16eb287182c79e4f13.jpg",
+    "static/media/freshnesecom.jpg": "/resume/static/media/freshnesecom.24ecd1ad1fd955b5a607.jpg",
+    "static/media/desire.jpg": "/resume/static/media/desire.9cee4dcd6ec4c6c0e562.jpg",
+    "static/media/movie.jpg": "/resume/static/media/movie.9b2aa493238c7342e74b.jpg",
+    "static/media/virtual-banking.jpg": "/resume/static/media/virtual-banking.3a56b3998b7886bfe274.jpg",
+    "static/media/car-sharing.jpg": "/resume/static/media/car-sharing.5cd9cc23593623db2762.jpg",
+    "static/media/agency-website.jpg": "/resume/static/media/agency-website.f65b963747f684ce6541.jpg",
+    "static/media/aim-game.jpg": "/resume/static/media/aim-game.eba4fb0e55d3a7bab328.jpg",
+    "static/media/myPhoto.jpg": "/resume/static/media/myPhoto.c1e9ae5ff725c3580d4a.jpg",
+    "static/media/todo-list.jpg": "/resume/static/media/todo-list.bffbb6bd815e263d8bdd.jpg",
+    "static/media/chart.PNG": "/resume/static/media/chart.f0dcd2a354f875966e45.PNG",
+    "index.html": "/resume/index.html",
+    "main.b4da281c.css.map": "/resume/static/css/main.b4da281c.css.map",
+    "main.f33e8720.js.map": "/resume/static/js/main.f33e8720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4da281c.css",
+    "static/js/main.f33e8720.js"
+  ]
+}
